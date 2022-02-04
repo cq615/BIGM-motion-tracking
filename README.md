@@ -21,3 +21,7 @@ To train the data-driven biomechanical prior:
 To perform the motion tracking:
 
   python main_motion_tracking.py
+
+## Citation and Acknowledgement
+
+To be updated.
