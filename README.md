@@ -2,7 +2,7 @@
 
 Demo code accompanying the paper of the same title (Under Review).
 
-Data and model will be uploaded upon publication.
+Pretrained model will be uploaded upon publication.
 
 ## Introduction
 
