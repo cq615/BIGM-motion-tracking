@@ -1,6 +1,8 @@
 # Biomechanics-informed Generative Model for Myocardial Motion Tracking via Latent Space Exploration
 
-Code accompanying the paper of the same title (Under Review).
+Demo code accompanying the paper of the same title (Under Review).
+
+Data and model will be uploaded upon publication.
 
 ## Introduction
 
@@ -10,12 +12,12 @@ The toy dataset is borrowed from <https://acdc.creatis.insa-lyon.fr/description/
 
 ## Usage
 
-To train the VAE regulariser:
+To train the data-driven biomechanical prior:
 
-  python VAE_regularisation.py
+  python main_prior.py
 
 ----
 
-To train the registration network:
+To perform the motion tracking:
 
-  python main.py
+  python main_motion_tracking.py
