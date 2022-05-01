@@ -1,4 +1,4 @@
-# Biomechanics-informed Generative Model for Myocardial Motion Tracking via Latent Space Exploration
+# Generative Myocardial Motion Tracking via Latent Space Exploration with Biomechanics-informed Prior
 
 Demo code accompanying the paper of the same title (Under Review).
 
