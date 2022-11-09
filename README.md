@@ -1,6 +1,6 @@
 # Generative Myocardial Motion Tracking via Latent Space Exploration with Biomechanics-informed Prior
 
-Demo code accompanying the paper of the same title (Under Review).
+Demo code accompanying the paper of the same title (accepted by MedIA).
 
 Pretrained model will be uploaded upon publication.
 
