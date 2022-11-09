@@ -1,6 +1,6 @@
 # Generative Myocardial Motion Tracking via Latent Space Exploration with Biomechanics-informed Prior
 
-Demo code accompanying the paper of the same title (accepted by MedIA).
+Demo code accompanying the paper of the same title.
 
 Pretrained model will be uploaded upon publication.
 
@@ -24,4 +24,4 @@ To perform the motion tracking:
 
 ## Citation and Acknowledgement
 
-To be updated.
+Chen Qin, Shuo Wang, Chen Chen, Wenjia Bai, Daniel Rueckert. Generative myocardial motion tracking via latent space exploration with biomechanics-informed prior, Medical Image Analysis,2022. https://doi.org/10.1016/j.media.2022.102682.
